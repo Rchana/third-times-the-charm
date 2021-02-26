@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!-- TODO: Pluralize strings correctly HP-770 and HP-771 -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="articles">Articles</string>
+    <string name="health_at_work">Health@Work</string>
+    <string name="already_signed_up">You\'re already signed up!</string>
+    <string name="read_length">%1$s mins</string>
+    <string name="content_unavailable">Content is currently unavailable</string>
+    <string name="get_inspired_empty_description">Life would be absolutely empty without imagination. Please try again later.</string>
+    <string name="chat_disclaimer_clinic_disabled">This business is no longer active on League</string>
+    <string name="previous">Previous</string>
+  
+</resources>
