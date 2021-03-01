@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="pick_image"></string>
+  <string name="capture_image"></string>
+  <string name="articles"></string>
+  <string name="health_at_work"></string>
+  <string name="already_signed_up"></string>
+  <string name="read_length"></string>
+  <string name="content_unavailable"></string>
+  <string name="get_inspired_empty_description"></string>
+  <string name="chat_disclaimer_clinic_disabled">Cette entreprise n\'est plus active sur League</string>
+  <string name="previous">Précédent</string>
+</resources>
