@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name" translatable="false">League</string>
+  <string name="default_web_client_id" translatable="false"></string>
+  <string name="google_analytics_tracker_id" translatable="false"></string>
+  <string name="league_host" translatable="false">league.com</string>
+  <string name="league_app_host" translatable="false">app.league.com</string>
+  <string name="league_international_marketplace_host" translatable="false">marketplace.league.com</string>
+  <string name="league_canada_marketplace_host" translatable="false">marketplace.ca.league.com</string>
+  <string name="league_scheme" translatable="false">league</string>
+  <string name="league_benefits_scheme" translatable="false">leaguebenefits</string>
+  <string name="pick_image">Photo Library</string>
+  <string name="capture_image">Take a Photo</string>
+  <string name="articles">Articles</string>
+  <string name="health_at_work">Health@Work</string>
+  <string name="already_signed_up">You\'re already signed up!</string>
+  <string name="read_length">%1$s mins</string>
+  <string name="content_unavailable">Content is currently unavailable</string>
+  <string name="get_inspired_empty_description">Life would be absolutely empty without imagination. Please try again later.</string>
+  <string name="chat_disclaimer_clinic_disabled">This business is no longer active on League</string>
+  <string name="previous">Previous</string>
+</resources>
